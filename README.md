@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Auto Online Store Setup System
 
 Complete automation system for creating and managing ecommerce stores using **100% free tools**.
@@ -366,3 +367,6 @@ Contributions welcome! Areas for improvement:
 - Advanced analytics
 - Multi-store management
 - UI dashboard
+=======
+# -auto-store-system
+>>>>>>> origin/main
