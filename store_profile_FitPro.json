@@ -1,0 +1,11 @@
+{
+  "niche": "fitness",
+  "country": "US",
+  "brand_name": "FitPro",
+  "auto_logo": true,
+  "payment_gateway": "stripe",
+  "product_source": "cj",
+  "currency": "USD",
+  "timezone": "America/New_York",
+  "color_scheme": "modern"
+}
